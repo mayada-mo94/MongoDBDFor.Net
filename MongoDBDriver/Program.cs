@@ -47,7 +47,7 @@ namespace MongoDBDriver
             }
             catch (MongoWriteException ex)
             {
-                Console.WriteLine(ex.Message)
+                Console.WriteLine(ex.Message);
             }
             var firstDocument = collection.Find(new BsonDocument()).FirstOrDefault();
             Console.WriteLine(firstDocument.ToString());

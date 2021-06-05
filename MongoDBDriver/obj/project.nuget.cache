@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FzPxlxLH+FxMCFVOUtGRNkMX/fo/y+4xUUSABJUdcTc+tRbYqcxWz5ibc5IWIHxNgd61pmhBtWeuTndLyYVc3g==",
+  "dgSpecHash": "klgHZUVO66Z/lxOy+lt+uYvkklrStDzHX4XqAgBI3IRN/SOQGYVev6Dy+nV3cSrORXxFOcbqdlG0X02Wy+D9Gw==",
   "success": true,
-  "projectFilePath": "C:\\Courses\\NoSql\\MongoDBDriver\\MongoDBDriver\\MongoDBDriver.csproj",
+  "projectFilePath": "C:\\Courses\\NoSql\\MongoDBDFor.Net\\MongoDBDriver\\MongoDBDriver.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MMohsen\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\MMohsen\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",

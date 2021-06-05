@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Courses\\NoSql\\MongoDBDriver\\MongoDBDriver\\MongoDBDriver.csproj": {}
+    "C:\\Courses\\NoSql\\MongoDBDFor.Net\\MongoDBDriver\\MongoDBDriver.csproj": {}
   },
   "projects": {
-    "C:\\Courses\\NoSql\\MongoDBDriver\\MongoDBDriver\\MongoDBDriver.csproj": {
+    "C:\\Courses\\NoSql\\MongoDBDFor.Net\\MongoDBDriver\\MongoDBDriver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Courses\\NoSql\\MongoDBDriver\\MongoDBDriver\\MongoDBDriver.csproj",
+        "projectUniqueName": "C:\\Courses\\NoSql\\MongoDBDFor.Net\\MongoDBDriver\\MongoDBDriver.csproj",
         "projectName": "MongoDBDriver",
-        "projectPath": "C:\\Courses\\NoSql\\MongoDBDriver\\MongoDBDriver\\MongoDBDriver.csproj",
+        "projectPath": "C:\\Courses\\NoSql\\MongoDBDFor.Net\\MongoDBDriver\\MongoDBDriver.csproj",
         "packagesPath": "C:\\Users\\MMohsen\\.nuget\\packages\\",
-        "outputPath": "C:\\Courses\\NoSql\\MongoDBDriver\\MongoDBDriver\\obj\\",
+        "outputPath": "C:\\Courses\\NoSql\\MongoDBDFor.Net\\MongoDBDriver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
